@@ -1,2 +1,2 @@
-# het_pretrained
-This is for sharing pretrained models of HeteroNetworkAdaptation
+## SyncNAS Pretrained Models
+This is for sharing pretrained models searched by SyncNAS
