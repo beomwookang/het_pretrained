@@ -1,2 +1,2 @@
-## SyncNAS Pretrained Models
-This is for sharing pretrained models searched by SyncNAS
+## MobileHeteroNAS Pretrained Models
+This is for sharing pretrained models searched by MobileHeteroNAS
